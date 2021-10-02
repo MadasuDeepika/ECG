@@ -1,2 +1,2 @@
-# rick_ecg
+#ECG
  
